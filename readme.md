@@ -1,10 +1,11 @@
 <p align="center"> 
     <img src="https://raw.githubusercontent.com/Byahan/Byahan/refs/heads/main/nama.svg">
 </p>
+
 ---
 
 ## Tech Stack & Tools
-[![](https://skillicons.dev/icons?i=html,css,js,c,c++,java,php,nodejs,figma,unity,vscode)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,php,nodejs,figma,unity,vscode)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=bootstrap,tailwind,laravel,spring,mysql,firebase,vercel,git,github,postman)](https://skillicons.dev) 
 
 --- 
